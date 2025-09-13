@@ -5,6 +5,9 @@ Designed for post-exploitation and penetration testing scenarios, it automates t
 
 ---
 
+
+## Demo
+![Demo gif](./assets/proc-scanner-demo.gif)
 ## Features
 
 - **Network Scanner**
